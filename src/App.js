@@ -18,10 +18,10 @@ function App() {
           <Router>
             <NavBar />
             <Routes>
-              <Route exact path="/" element={<Home />} />
-              <Route path="/tech-savvy-phrases" element={<TechPhrases />} />
-              <Route path="/corporate-buzz-words" element={<CorpBuzz />} />
-              <Route path="/random-useless-facts" element={<RandomUselessFacts />} />
+              <Route exact path="/quote-quest/" element={<Home />} />
+              <Route path="/quote-quest/tech-savvy-phrases" element={<TechPhrases />} />
+              <Route path="/quote-quest/corporate-buzz-words" element={<CorpBuzz />} />
+              <Route path="/quote-quest/random-useless-facts" element={<RandomUselessFacts />} />
             </Routes>
           </Router>
           <footer className="mt-auto text-white-50 text-bg-dark pt-3">

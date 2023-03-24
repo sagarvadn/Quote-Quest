@@ -11,3 +11,5 @@ In theis project I have used the following APIs:
 ### 3. [Random Useless Facts](https://uselessfacts.jsph.pl/)
 
 Feel free to test it out and play around. Let me know if there are any bugs or for any feature request.
+
+Live Link: [Quote Quest](https://projects.sagarvadnere.me/quote-quest)
